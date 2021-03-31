@@ -9,7 +9,7 @@ The notebook containes two examples of pre-trained models used for object detect
 
 Object recognition is tested on few paintings of Vincent van Gogh. Source of the images: https://commons.wikimedia.org/wiki
 
-This tutorial is based on Tensorflow Tutorial, which is available at the following link: https://www.tensorflow.org/hub/tutorials/object_detection
+This notebook is based on Tensorflow Tutorial, which is available at the following link: https://www.tensorflow.org/hub/tutorials/object_detection
 
 Copyright 2018 The TensorFlow Hub Authors.
 
